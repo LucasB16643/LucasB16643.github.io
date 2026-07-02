@@ -8,10 +8,10 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Your Name / Site Title"
+site_theme               : "sunrise" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+title                    : "Lucas Bonanno"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Lucas Bonanno"
 description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://LucasB16643.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
@@ -26,7 +26,7 @@ author:
   avatar           : "profile.png"
   name             : "Lucas Bonanno"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Game Programming graduate from Champlain College (B.S., May 2026) with experience developing gameplay systems, graphics applications, and collaborative game projects using Unity, C#, C++, and OpenGL"
   location         : "Earth"
   employer         : "Red Brick University"
   uri              : # URL
