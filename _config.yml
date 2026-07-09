@@ -27,8 +27,8 @@ author:
   name             : "Lucas Bonanno"
   pronouns         : # example: "she/her"  
   bio              : "Game Programming graduate from Champlain College (B.S., May 2026) with experience developing gameplay systems, graphics applications, and collaborative game projects using Unity, C#, C++, and OpenGL"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "Massachusetts"
+  employer         : 
   uri              : # URL
   email            : "lsbonanno04@gmail.com" 
 
@@ -57,7 +57,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          :  # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
