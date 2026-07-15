@@ -10,6 +10,7 @@ redirect_from:
 {% include base_path %}
 
 Lucas J. Bonanno
+======
 Bachelors of Science in Game Programming from Champlain College | Methuen, MA 01844
 lsbonanno04@gmail.com  |  (978) 835-2740 |  linkedin.com/in/lucas-bonanno49
 PROFESSIONAL SUMMARY
