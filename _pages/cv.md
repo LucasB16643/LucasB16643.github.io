@@ -20,7 +20,7 @@ Work experience
   
 Skills
 ======
-*  Programming Languages
+* Programming Languages
   * C++, C#,  Python, JavaScript, OpenGL, Raylib, PrimeTween
 * Game Development
   * Unity Game Development, Unreal Game Development 
