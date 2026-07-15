@@ -20,12 +20,14 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+*  Programming Languages
+  * C++, C#,  Python, JavaScript, OpenGL, Raylib, PrimeTween
+* Game Development
+  * Unity Game Development, Unreal Game Development 
+* Productivity and Collaboration Tools
+  * Git Hub, Atlassian, Discord, Microsoft Teams, Zoom, Microsoft Office (Word, Powerpoint, Excel), Visual Studio IDE, VS Code. 
+
+
 
 
   
