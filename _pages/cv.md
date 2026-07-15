@@ -44,10 +44,15 @@ Skills
 * Productivity and Collaboration Tools
   * Git Hub, Atlassian, Discord, Microsoft Teams, Zoom, Microsoft Office (Word, Powerpoint, Excel), Visual Studio IDE, VS Code. 
 
-
-
-
   
-Service and leadership
+SELECTED INTERESTS
 ======
-* Currently signed in to 43 different slack teams
+* Avid Reader 
+  * I enjoy reading a wide variety of different books and genres, Fantasy and Science Fiction are my favorites. I have read 18 books in 2026 so far.
+* Favorite Video Games
+  *Growing up, I played a lot of different video games, which inspired me to pursue a Video Game Programming major. Some of my favorites are Chrono Trigger, Hades, and The Legend of Zelda. 
+* Ice Hockey
+  *Participated on competitive ice hockey teams through high school. I still enjoy being on the rink and it is something that I try to keep up with. 
+
+
+
