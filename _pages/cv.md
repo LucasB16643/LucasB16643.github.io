@@ -50,9 +50,9 @@ SELECTED INTERESTS
 * Avid Reader 
   * I enjoy reading a wide variety of different books and genres, Fantasy and Science Fiction are my favorites. I have read 18 books in 2026 so far.
 * Favorite Video Games
-  *Growing up, I played a lot of different video games, which inspired me to pursue a Video Game Programming major. Some of my favorites are Chrono Trigger, Hades, and The Legend of Zelda. 
+  * Growing up, I played a lot of different video games, which inspired me to pursue a Video Game Programming major. Some of my favorites are Chrono Trigger, Hades, and The Legend of Zelda. 
 * Ice Hockey
-  *Participated on competitive ice hockey teams through high school. I still enjoy being on the rink and it is something that I try to keep up with. 
+  * Participated on competitive ice hockey teams through high school. I still enjoy being on the rink and it is something that I try to keep up with. 
 
 
 
