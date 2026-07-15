@@ -14,8 +14,15 @@ Education
 * Bachelor of Science in Game Programming, Champlain College, Burlington, VT, May 2026
 
 
-Work experience
+Classes
 ======
+* Game Development
+  * Game Physics, Artificial Intelligence for Games, Intermediate Graphics and Animations Programming, Game Architecture, Introduction to Modern Graphics Programming 
+* Computer Science
+  * Network Programming, Data Structures and Algorithms, Advanced Programming
+* Math Classes
+  * Discrete Mathematics, Matrices Vectors and 3D Math, Calculus, Statistics
+
 
   
 Skills
